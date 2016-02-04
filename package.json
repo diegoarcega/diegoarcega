@@ -1,0 +1,15 @@
+{
+    "name": "diegoarcega",
+    "version": "0.0.4",
+    "main": "index.js",
+    "scripts": {
+        "postinstall": "cat info.json"
+    },
+    "homepage": "https://diegoarcega.github.io",
+    "license": "MIT",
+    "author": "Diego Arcega",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/diegoarcega/diegoarcega.git"
+    }
+}
